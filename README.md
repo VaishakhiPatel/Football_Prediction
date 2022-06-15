@@ -1,4 +1,4 @@
-# Football_Prediction
+# Football_Prediction_Assignment
 
 The English Premier League is in full swing and it's been an interesting season for lots of teams with Arsenal back in the top 4. Here is your chance to use data points from the betting markets to predict the outcome for a match.
 
